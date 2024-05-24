@@ -34,5 +34,7 @@ Install the package
 ## Usage
 
   ```
-  pip install auto-ml-models
+  from auto_ml_models.classification import ML_Classifier
+
+  from auto_ml_models.regression import ML_Regression
   ```
