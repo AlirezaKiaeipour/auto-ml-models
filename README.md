@@ -33,8 +33,11 @@ Install the package
 
 ## Usage
 
-  ```
+  ```python
   from auto_ml_models.classification import ML_Classifier
 
   from auto_ml_models.regression import ML_Regression
   ```
+
+## Tutorial
+[Tutorial.ipynb](https://github.com/AlirezaKiaeipour/auto-ml-models/blob/main/tutorial/Tutorial.ipynb)
